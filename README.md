@@ -28,7 +28,7 @@
 
 ## IV. Statistical Model
 
-:small_blue_diamond: Logistic regression
+:small_blue_diamond: Logistic regression ([R script](https://htmlpreview.github.io/?https://github.com/quinnei/Climate-Action/blob/main/2_R%20code%20script/Public-confidence-in-multilateral-climate-action_Kyuin-LEE.html))
 
 
 
@@ -76,4 +76,3 @@ This project is licensed under the terms of `mit`.
 
 See [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE) for more information. 
 
----
