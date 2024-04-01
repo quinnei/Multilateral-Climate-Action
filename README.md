@@ -29,8 +29,7 @@
 
 ## IV. Statistical Model
 
-🔸Logistic regression ([R script](https://htmlpreview.github.io/?https://github.com/quinnei/Climate-Action/blob/main/2_R%20code%20script/Public-confidence-in-multilateral-climate-action_Kyuin-LEE.html))
-
+🔸Logistic regression ([R script](https://htmlpreview.github.io/?https://github.com/quinnei/Multilateral-Climate-Action/blob/main/2_R%20code%20script/Public_attitudes_toward_multilateral_climate_action.html))
 
 
 ## V. Data
